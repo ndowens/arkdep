@@ -1,0 +1,21 @@
+#cosmic
+cosmic
+
+# extra
+bluez
+bluez-cups
+bluez-plugins
+bluez-utils
+flatpak
+fuse
+power-profiles-daemon
+svgpart
+xdg-desktop-portal-cosmic
+xdg-user-dirs
+xdg-utils
+
+# Arkane Linux
+arkane-application-cleaner
+arkane-wallpapers
+libnss-extrausers
+skel-arkane
