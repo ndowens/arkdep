@@ -10,7 +10,6 @@ diffutils
 distrobox
 dosfstools
 efibootmgr
-espeak-ng
 exfatprogs
 f2fs-tools
 fakeroot
@@ -38,12 +37,9 @@ terminus-font
 tpm2-tools
 tpm2-tss
 tpm2-tss-engine
-vulkan-intel
 vulkan-mesa-layers
-vulkan-nouveau
 vulkan-radeon
 wget
-xfsprogs
 zsh
 zsh-autosuggestions
 zsh-completions
