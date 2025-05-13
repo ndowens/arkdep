@@ -2,17 +2,29 @@
 cosmic
 
 # extra
+betterbird
 bluez
 bluez-cups
 bluez-plugins
 bluez-utils
+firefox
 flatpak
+fish
 fuse
+gdm
+keepassxc
+lib32-vulkan-radeon
+mosh
 power-profiles-daemon
+proton-cachyos
+steam
 svgpart
+tailscale
 xdg-desktop-portal-cosmic
 xdg-user-dirs
 xdg-utils
+waveterm
+wine-cachyos
 
 # Arkane Linux
 arkane-application-cleaner

@@ -1,1 +1,1 @@
-pacman -Rs linux linux-headers
+#pacman -Rs linux linux-headers
