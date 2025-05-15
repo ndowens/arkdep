@@ -1,0 +1,9 @@
+#!/bin/sh
+
+echo "Upgrading distrobox containers"
+distrobox-upgrade --all -r
+distrobox-upgrade --all
+echo "Upgrading flatpaks"
+flatpak upgrade -y
+echo "Upgrading brew"
+brew upgrade

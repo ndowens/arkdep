@@ -1,0 +1,1 @@
+echo Revan > /etc/hostname
